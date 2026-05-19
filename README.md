@@ -39,7 +39,7 @@ Three submission paths are supported.
 
 **Hash-only submission for secret ideas.** If you want to register an idea without revealing its contents, submit only the SHA-512 hash of the idea text along with the registration metadata. The hash establishes that the idea existed at the registration date. You can later disclose the original content and prove (by hashing the disclosed content and matching it against the registered hash) that the idea was yours as of the registration date.
 
-For hash-only submissions, use the `HASH_TEMPLATE.md` file (to be added) instead of the full template.
+For hash-only submissions, use the `HASH_TEMPLATE.md` file instead of the full template.
 
 ## License
 
