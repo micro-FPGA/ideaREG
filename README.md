@@ -2,6 +2,8 @@
 
 **An open registry of ideas.**
 
+![ideaREG](./docs/IdeaREG_1280.jpg)
+
 ## What this is
 
 ideaREG is a public registry for ideas. Anyone can register an idea by adding a file to this repository. Each registration is timestamped, attributed (optionally), and cryptographically chained to the previous registrations through Git's commit history.
