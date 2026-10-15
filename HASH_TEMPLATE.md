@@ -26,7 +26,7 @@
 
 ## License
 
-This registration is released under the **MIT License** unless otherwise specified.
+This registration is released under the **OLL** unless otherwise specified.
 The hash itself is freely shareable. The underlying idea remains private with the registrant until disclosed.
 
 ---
