@@ -23,7 +23,7 @@
 
 ## License
 
-This idea is registered under MIT unless otherwise specified.
+This idea is registered under OLL 1.0 unless otherwise specified.
 Anyone may use this idea provided attribution to the registrant is preserved.
 
 ---
