@@ -71,7 +71,9 @@ If you want to register an idea under a different license, specify it in the reg
 
 ## Verification
 
-Each registration's authenticity is verified by Git's commit history. Every commit contains the cryptographic hash of the previous commit, making the entire history tamper-evident. GitHub's commit timestamps are server-recorded and difficult to backdate.
+Each registration's authenticity is verified by Git's commit history. Every commit contains the cryptographic hash of the previous commit, making the entire history tamper-evident. When a pull request is merged on GitHub, the merge commit carries GitHub's server time. Commits pushed directly carry the date set on the committer's own machine, which can be changed. For those, the strongest evidence is an independent snapshot 
+of the repository — for example the Internet Archive or Software Heritage. The hash chain makes the history tamper-evident as long as copies of it exist elsewhere; forks and archive snapshots are what make a 
+rewrite detectable.
 
 To verify a registration's date, examine the commit history for the file in question. The earliest commit that contains the registration is the canonical registration date.
 
