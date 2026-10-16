@@ -18,6 +18,24 @@ ideaREG is a small attempt to give ideas a public home where the timestamp of th
 
 The longer-term hope is that registries like this one, accumulated across many contributors over time, can contribute to making patents meaningless by establishing public prior art at sufficient scale. This is an ambitious goal that ideaREG alone will not achieve. Contributing to the direction is what is in the actor's power to make.
 
+## Before you register: patents
+
+Registering an idea here is a public disclosure. That is the point — it makes
+the idea prior art — but it applies to you as well as to everyone else.
+
+- **Europe** and most other countries require absolute novelty. Once your idea
+  is published here, it can no longer be patented there — not by anyone,
+  including you.
+- **The United States** gives the inventor a 12-month grace period after their
+  own disclosure. After those 12 months, the same applies. A few other countries
+  have similar grace periods.
+- **Hash-only submissions** disclose nothing, so they are not prior art. They
+  do not stop you from patenting the idea later — and they do not stop anyone
+  else either.
+
+If you might want to patent an idea, talk to a patent attorney before
+registering it here. ideaREG is not legal advice.
+
 ## How to register an idea
 
 The simplest path:
